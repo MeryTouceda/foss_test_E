@@ -25,7 +25,7 @@ Clara is an ecologist, statistician, and sociologist of science with a broad int
 
 Favorite romcom: Happiest Season
 
-##Emily Quach
+## Emily Quach
 
 San Mateo County Community College District
 
