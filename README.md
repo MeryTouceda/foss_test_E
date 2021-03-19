@@ -1,17 +1,9 @@
 # FOSS test website for ACME team
 
-Name: 
-Institution:
-Job/Research:
-Favorite RomCom:
 
+# Team Members:
 
-
-
-Test github website for team E (Wednesdays)
-This is Amy, just testing write/push access.
-
-## Clara Qin
+* ## Clara Qin
 
 University of California, Santa Cruz
 
@@ -25,14 +17,20 @@ Clara is an ecologist, statistician, and sociologist of science with a broad int
 
 Favorite romcom: Happiest Season
 
-## Emily Quach
 
-San Mateo County Community College District
 
-Adjunct Faculty
+* ## Mery Touceda-Suárez
 
-GitHub https://github.com/emilyvquach
+University of Arizona, Tucson
 
-Emily is a microbiologist and an educator. 
+PhD Student
 
-Favorite romcom: How to Date a Guy in 10 Days
+Advisor: [Albert Barberán](https://barberanalbert.wixsite.com/labpage)
+
+GitHub ([here](https://github.com/MeryTouceda))
+![image](https://user-images.githubusercontent.com/29862508/111809114-df203f00-8891-11eb-8ebb-667eceae7fd4.png)
+
+Research: Microbial Ecology / Sustainability / Data Science
+
+Favorite romcom: "Imagine you and me"
+
