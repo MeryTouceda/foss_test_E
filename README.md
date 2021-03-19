@@ -28,7 +28,6 @@ PhD Student
 Advisor: [Albert Barberán](https://barberanalbert.wixsite.com/labpage)
 
 GitHub ([here](https://github.com/MeryTouceda))
-![image](https://user-images.githubusercontent.com/29862508/111809114-df203f00-8891-11eb-8ebb-667eceae7fd4.png =150x150)
 
 Research: Microbial Ecology / Sustainability / Data Science
 
