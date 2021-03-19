@@ -25,7 +25,8 @@ Clara is an ecologist, statistician, and sociologist of science with a broad int
 
 Favorite romcom: Happiest Season
 
-##Emily Quach
+
+* ## Emily Quach
 
 San Mateo County Community College District
 
@@ -35,9 +36,10 @@ GitHub https://github.com/emilyvquach
 
 Emily is a microbiologist and an educator. 
 
-Favorite romcom: How to Date a Guy in 10 Days
+Favorite romcom: How to Lose a Guy in 10 Days
 
-##Amy Schuler
+
+* ## Amy Schuler
 
 Cary Institute of Ecosystem Studies
 
@@ -46,3 +48,18 @@ Director of Information Services, Library & Data Management
 Amy is traditionally trained as a librarian,  but is attempting to become Mother Nature's hacker (joke!) In reality, she supports data management and information services at Cary.
 
 Favorite anime: Cowboy Bebop
+
+
+* ## Mery Touceda-Suárez
+
+University of Arizona, Tucson
+
+PhD Student
+
+Advisor: ([Albert Barberán](https://barberanalbert.wixsite.com/labpage))
+
+GitHub ([here](https://github.com/MeryTouceda))
+
+Research: Microbial Ecology / Sustainability / Data Science
+
+Favorite romcom: "Imagine you and me"
