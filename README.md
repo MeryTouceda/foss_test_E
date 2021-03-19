@@ -63,3 +63,16 @@ GitHub ([here](https://github.com/MeryTouceda))
 Research: Microbial Ecology / Sustainability / Data Science
 
 Favorite romcom: "Imagine you and me"
+
+* ## Emily Dart
+
+Clark University
+
+PhD Student
+
+Advisor: [Nathan Ahlgren](https://nahlgren.wordpress.com/)
+
+Emily is a viral and microbial ecologist. Her work focuses on using time series to study predator-prey dynamics between phage and bacterial host communities in marine and freshwater ecosystems.
+
+Rom Com: "Howl’s Moving Castle"
+
