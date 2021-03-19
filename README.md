@@ -32,7 +32,7 @@ San Mateo County Community College District
 
 Adjunct Faculty
 
-GitHub https://github.com/emilyvquach
+GitHub ([here](https://github.com/emilyvquach))
 
 Emily is a microbiologist and an educator. 
 
