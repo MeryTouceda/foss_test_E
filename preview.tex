@@ -1,0 +1,487 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  english,
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Data Management Plan},
+  pdflang={en},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifxetex
+  % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
+  \usepackage{polyglossia}
+  \setmainlanguage[]{english}
+\else
+  \usepackage[shorthands=off,main=english]{babel}
+\fi
+
+\title{Data Management Plan}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{copy-of-amys-foss-project-1}{%
+\section{Copy of Amy's FOSS project
+1}\label{copy-of-amys-foss-project-1}}
+
+\hypertarget{following-the-horizon-2020-dmp-template-v2.0}{%
+\subsubsection{\texorpdfstring{Following the \textbf{Horizon 2020 DMP
+Template
+v2.0}}{Following the Horizon 2020 DMP Template v2.0}}\label{following-the-horizon-2020-dmp-template-v2.0}}
+
+\begin{description}
+\item[Contact person]
+\begin{itemize}
+\tightlist
+\item
+  {Clara Qin}
+  ({\href{mailto:claraqin@ucsc.edu}{\nolinkurl{claraqin@ucsc.edu}}}, {{}
+  0000-0002-9561-4704})\\
+  \href{https://ror.org/03s65by71}{University of California, Santa Cruz}
+\end{itemize}
+\item[Based on]
+Common DSW Knowledge Model, 2.3.0 ({{dsw}:{root}:{2.3.0}})
+\item[Created by]
+{Amy Schuler}
+({\href{mailto:schulera@caryinstitute.org}{\nolinkurl{schulera@caryinstitute.org}}})
+\item[Generated on]
+22 Mar 2021
+\end{description}
+
+Data Management Plan created in Data Stewardship Wizard
+«\href{https://ds-wizard.org}{ds-wizard.org}»
+
+\hypertarget{dmp-projects}{}
+\hypertarget{projects}{%
+\subsection{Projects}\label{projects}}
+
+We will be working on the following projects and for those are the data
+and work described in this DMP.
+
+\hypertarget{amys-test-for-cary-institute}{%
+\subsubsection{Amy's test for Cary
+Institute}\label{amys-test-for-cary-institute}}
+
+\begin{description}
+\item[Acronym]
+Cary test
+\item[Start date]
+03/01/2021
+\item[End date]
+05/01/2021
+\item[Funding]
+\begin{itemize}
+\tightlist
+\item
+  \href{http://dx.doi.org/10.13039/100000001}{National Science
+  Foundation}: n/a (planned)
+\end{itemize}
+\end{description}
+
+Basically this is a test drive of DSW for the Cary Institute. Right now
+we have a "home grown" data management plan template that many
+researchers use for (mainly) US federal grants. Most researchers create
+their own based on that template, and perhaps a couple have used
+DMPTool. I like the idea that DSWizard creates a machine readable data
+management plan.
+
+\hypertarget{clara-qins-undergraduate-thesis-turned-manuscript}{%
+\subsubsection{Clara Qin's undergraduate thesis turned
+manuscript}\label{clara-qins-undergraduate-thesis-turned-manuscript}}
+
+\begin{description}
+\item[Acronym]
+Clara thesis
+\item[Start date]
+04/01/2014
+\item[End date]
+09/13/2019
+\item[Funding]
+\begin{itemize}
+\tightlist
+\item
+  Stanford Undergraduate Advising and Research (UAR) Major Grant: grant
+  number not yet given (granted)
+\item
+  A.W. Mellon Foundation / Stanford University Grant for Student
+  Research at Jasper Ridge Biological Preserve: grant number not yet
+  given (granted)
+\end{itemize}
+\end{description}
+
+Soil microbial communities regulate and respond to key biogeochemical
+cycles and influence plant community patterns. However, microbial
+communities also respond to disturbance events, motivating an assessment
+of the relative roles of decadal multi‐factor global change, disturbance
+and plant community structure on microbial community responses.
+
+We used high‐throughput amplicon sequencing to characterize the
+diversity and composition of bacterial and fungal communities in bulk
+soil (0--7 cm) collected in 2014 from the Jasper Ridge Global Change
+Experiment, a full‐factorial field experiment in which ambient and
+elevated levels of nitrogen deposition (+7 g N m−2 yr−1 calcium
+nitrate), CO2 concentration (+275 ppm), temperature (+1--2°C) and
+precipitation (+50\% volume with +3 weeks duration) were applied to a
+California annual grassland from 1998 to 2014. We used linear
+mixed‐effects modelling to test for the effects of global change on
+microbial diversity (observed richness, Shannon index). We also used
+generalized dissimilarity modelling (GDM) to study controls on
+compositional dissimilarity in fungal and bacterial communities.
+
+Bacterial community composition was best explained by exposure to fires
+in 2003 and 2011, whereas fungal community composition was best
+explained by plant community composition. The richness of fungi
+increased under elevated nitrogen deposition; bacterial diversity
+metrics decreased under warmer temperatures. Interactions between global
+change factors were statistically insignificant or weak.
+
+Synthesis. Our results indicate that even on decadal time‐scales, the
+effects of fire history and plant community composition on bacterial and
+fungal community composition, respectively, outweigh the effects of
+multi‐factor global change. Furthermore, global change factors have
+mostly additive effects on microbial diversity patterns. Our results
+show that highly variable mediators such as fire history and plant
+community composition limit the generalizability of soil microbial
+responses to long‐term global change.
+
+\hypertarget{dmp-content}{}
+\hypertarget{sec-data-summary}{}
+\hypertarget{data-summary}{%
+\subsection{1. Data Summary}\label{data-summary}}
+
+\hypertarget{q-data-summary}{}
+\hypertarget{non-equipment-datasets}{%
+\paragraph{Non-equipment datasets}\label{non-equipment-datasets}}
+
+The non-equipment datasets are:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Plant biomass} {--} Plant biomass (g m-2 y-1) by species in
+  each quadrant of each plot in the Jasper Ridge Global Change
+  experiment in 2014.
+\end{itemize}
+
+\hypertarget{re-used-datasets}{%
+\paragraph{Re-used datasets}\label{re-used-datasets}}
+
+We will use the following reference datasets:
+
+\begin{itemize}
+\item
+  \textbf{Cary Institute data repository. Supplementary File 5 -
+  Fischhoff et al. 2021.}
+  (\url{https://doi.org/10.25390/caryinstitute.13721254.v1})
+
+  We will use version "v1" of this dataset. If a new version becomes
+  available during the project, new analyses will be done with the new
+  version.
+\item
+  \textbf{Data from: Fire history and plant community composition
+  outweigh decadal multi‐factor global change as drivers of microbial
+  composition in an annual grassland}
+  (\url{https://doi.org/10.5061/dryad.nf481q8})
+\end{itemize}
+
+\hypertarget{data-formats-and-types}{%
+\paragraph{Data formats and types}\label{data-formats-and-types}}
+
+We will be using the following data formats and types:
+
+\begin{itemize}
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s001546}{Comma-separated
+  Values}}
+
+  It is a standardized format. This is a suitable format for long-term
+  archiving. We will have only a small amount of data stored in this
+  format.
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s000588}{DataCite Metadata
+  Schema}}
+
+  It is a standardized format. This is a suitable format for long-term
+  archiving. We will have only a small amount of data stored in this
+  format.
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s000884}{Biological
+  Observation Matrix Ontology}}
+
+  It is a standardized format. This is a suitable format for long-term
+  archiving. We expect to have 0.0088 GB of data in this format.
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s001263}{Rich Text Format}}
+
+  It is a standardized format. This is a suitable format for long-term
+  archiving. We will have only a small amount of data stored in this
+  format.
+\end{itemize}
+
+\hypertarget{sec-fair-data}{}
+\hypertarget{fair-data}{%
+\subsection{2. FAIR Data}\label{fair-data}}
+
+\hypertarget{making-data-findable-including-provisions-for-metadata}{%
+\subsubsection{2.1. Making data findable, including provisions for
+metadata}\label{making-data-findable-including-provisions-for-metadata}}
+
+\hypertarget{q-findable}{}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{https://datadryad.org/stash/dataset/doi:10.5061/dryad.nf481q8}
+  (published)\\
+  There won't be different versions of this data over time.\\
+  We will be adding a reference to the published data to at least one
+  data catalogue.
+\end{itemize}
+
+There are no 'Minimal Metadata About ...' (MIA...) standards for our
+experiments. However, we have a good idea of what metadata is needed to
+make it possible for others to read and interpret your data in the
+future.
+
+We will use lab notebooks to make sure that there is good provenance of
+the data analysis.
+
+\hypertarget{making-data-openly-accessible}{%
+\subsubsection{2.2. Making data openly
+accessible}\label{making-data-openly-accessible}}
+
+\hypertarget{q-accessible}{}
+We will be working with the philosophy \emph{as open as possible} for
+our data.
+
+All of our data can become completely open immediately.
+
+All data will be owned by the Principal Investigator.
+
+For the reference and non-reference data sets that we reuse, conditions
+are as follows:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Cary Institute data repository. Supplementary File 5 -
+  Fischhoff et al. 2021.} {--} freely available with obligation to quote
+  the source (e.g. CC-BY).
+\item
+  \textbf{Data from: Fire history and plant community composition
+  outweigh decadal multi‐factor global change as drivers of microbial
+  composition in an annual grassland} {--} freely available with
+  obligation to quote the source (e.g. CC-BY).
+\end{itemize}
+
+For our produced data, conditions are as follows:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{https://datadryad.org/stash/dataset/doi:10.5061/dryad.nf481q8}
+  (published)\\
+  A user of this data can use it without any specific software.
+\end{itemize}
+
+\hypertarget{making-data-interoperable}{%
+\subsubsection{2.3. Making data
+interoperable}\label{making-data-interoperable}}
+
+\hypertarget{q-interoperable}{}
+We will be using the following data formats and types:
+
+\begin{itemize}
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s001546}{Comma-separated
+  Values}}
+
+  It is a standardized format.
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s000588}{DataCite Metadata
+  Schema}}
+
+  It is a standardized format.
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s000884}{Biological
+  Observation Matrix Ontology}}
+
+  It is a standardized format.
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s001263}{Rich Text Format}}
+
+  It is a standardized format.
+\end{itemize}
+
+We will be using the following standards (encodings, terminologies,
+vocabularies, ontologies):
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{\href{https://fairsharing.org/bsg-s000095}{Infectious Disease
+  Ontology Core}}
+\end{itemize}
+
+\hypertarget{increase-data-re-use-through-clarifying-licenses}{%
+\subsubsection{2.4. Increase data re-use (through clarifying
+licenses)}\label{increase-data-re-use-through-clarifying-licenses}}
+
+\hypertarget{q-reusable}{}
+The metadata for our produced data will be kept as follows:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{https://datadryad.org/stash/dataset/doi:10.5061/dryad.nf481q8}
+  (published) {--} This data set will be kept available as long as
+  technically possible.
+\end{itemize}
+
+As stated already in Section 2.2, all of our data can become completely
+open immediately.
+
+We do not plan to be archiving data (using so-called \emph{cold
+storage}) for long term preservation already during your project.
+
+To validate the integrity of the results, the following will be done:
+
+\begin{itemize}
+\tightlist
+\item
+  We will run a subset of our jobs several times across the different
+  compute infrastructures.
+\item
+  We will be instrumenting the tools into pipelines and workflows using
+  automated tools.
+\item
+  We will use independently developed duplicate tools or workflows for
+  critical steps to reduce or eliminate human errors.
+\item
+  We will run part of the data set repeatedly to catch unexpected
+  changes in results.
+\end{itemize}
+
+\hypertarget{sec-resource-allocation}{}
+\hypertarget{allocation-of-resources}{%
+\subsection{3. Allocation of resources}\label{allocation-of-resources}}
+
+\hypertarget{q-resource-allocation}{}
+FAIR is a central part of our data management; it is considered at every
+decision in our data management plan. We use the FAIR data process
+ourselves to make our use of the data as efficient as possible. Making
+our data FAIR is therefore not a cost that can be separated from the
+rest of the project.
+
+None of the used repositories charge for their services.
+
+We have a reserved budget for the time and effort it will take to
+prepare the data for publication.
+
+Amy Schuler is responsible for implementing the DMP, and ensuring it is
+reviewed and revised.
+
+Amy Schuler is responsible for reviewing, enhancing, cleaning, or
+standardizing metadata and the associated data submitted for storage,
+use and maintenance within a data centre or repository.
+
+To execute the DMP, no additional specialist expertise is required.
+
+We do not require any hardware or software in addition to what is
+usually available in the institute.
+
+\hypertarget{sec-data-security}{}
+\hypertarget{data-security}{%
+\subsection{4. Data security}\label{data-security}}
+
+\hypertarget{q-data-security}{}
+Project members can carry data with them on password-protected laptops.
+All data centers where project data is stored carry sufficient
+certifications. All project web services addressed via secure http
+(https://...). Project members have been instructed about both generic
+and specific risks to the project.
+
+The possible impact to the project or organization if information is
+lost is small. The possible impact to the project or organization if
+information is leaked is small. The possible impact to the project or
+organization if information is vandalised is small.
+
+We are not using any personal information.
+
+\hypertarget{sec-ethical-aspects}{}
+\hypertarget{ethical-aspects}{%
+\subsection{5. Ethical aspects}\label{ethical-aspects}}
+
+\hypertarget{q-ethical-aspects}{}
+For the data we produce, the ethical aspects are as followsS:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{https://datadryad.org/stash/dataset/doi:10.5061/dryad.nf481q8}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    It does not contain personal data.
+  \item
+    It does not contain sensitive data.
+  \end{itemize}
+\end{itemize}
+
+We don't need any consent for collected data because those are not
+personal.
+
+\hypertarget{sec-other-issues}{}
+\hypertarget{other-issues}{%
+\subsection{6. Other issues}\label{other-issues}}
+
+\hypertarget{q-other-issues}{}
+We use the \href{https://ds-wizard.org}{Data Stewardship Wizard} with
+its \emph{Common DSW Knowledge Model} (ID: {{dsw}:{root}:{2.3.0}})
+knowledge model to make our DMP. More specifically, we use the
+\url{https://demo.ds-wizard.org} DSW instance where the project has
+direct URL:
+\url{https://demo.ds-wizard.org/projects/65bcd8d4-f7d0-4bbd-be2e-8cf4a2030c51}.
+
+\end{document}
