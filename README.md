@@ -58,7 +58,7 @@ University of Arizona, Tucson
 
 PhD Student
 
-Advisor: ([Albert Barberán](https://barberanalbert.wixsite.com/labpage))
+Website: ([My web](https://merytouceda.github.io/mywebsite/index.html)
 
 GitHub ([here](https://github.com/MeryTouceda))
 
