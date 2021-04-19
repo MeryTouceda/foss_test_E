@@ -58,7 +58,7 @@ University of Arizona, Tucson
 
 PhD Student
 
-Website: ([My web](https://merytouceda.github.io/mywebsite/index.html)
+Website: ([My web](https://merytouceda.github.io/mywebsite/index.html))
 
 GitHub ([here](https://github.com/MeryTouceda))
 
