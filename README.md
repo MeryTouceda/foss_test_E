@@ -41,13 +41,15 @@ Favorite romcom: How to Lose a Guy in 10 Days
 
 * ## Amy Schuler
 
-Cary Institute of Ecosystem Studies
+[Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/)
 
 Director of Information Services, Library & Data Management
 
-Amy is traditionally trained as a librarian,  but is attempting to become Mother Nature's hacker (joke!) In reality, she supports data management and information services at Cary.
+GitHub [here](https://github.com/schulera)
 
-Favorite anime: Cowboy Bebop
+Amy is attempting to become Mother Nature's hacker (joke!) In real life, she supports research data management, library and information services at Cary.
+
+Favorite romcom: Chungking Express
 
 
 * ## Mery Touceda-Suárez
