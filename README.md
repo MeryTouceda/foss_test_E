@@ -34,7 +34,7 @@ Adjunct Faculty
 
 GitHub [here](https://github.com/emilyvquach/MyfirstGithub/blob/main/README.md)
 
-Emily is an educator. 
+Capstone Statement: Emily's background is in molecular biology, microbiology, and parasitology. Currently, Emily is a first year adjunct intructor at community college. As a life long learner, she hopes to implement FOSS knowledge in her classes. Her plan is to learn all she can about open science, bioinfomatics, and the wolrd of coding over the next 2 years. After gaining all this in silico world, she will provide her students with data collected over the years so she may pass on the knowledge. This webpage is to her refresh the class in the future. My greatest barrier to the tools is new to coding and using new languages. Using R markdown is a tool I will try to apply right away, its a fast way to type and create pages. 
 
 Favorite romcom: How to Lose a Guy in 10 Days
 
