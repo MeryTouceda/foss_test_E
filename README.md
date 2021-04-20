@@ -66,6 +66,25 @@ Research: Microbial Ecology / Sustainability / Data Science
 
 Favorite romcom: "Imagine you and me"
 
+
+__Questions__: 
+
+- Which tool could you apply right away and why?
+
+Git/GitHub to collaborate with team mates and other scientists.
+Docker to use software created by others. 
+
+
+- What is your greatest barrier to these tools?
+
+The system where I work, the HPC, uses a Singularity instead of docker, it is not as straight forward to implement as I thought. 
+
+
+- What tools would you wish we covered more in depth?
+
+NC
+
+
 * ## Emily Dart
 
 Clark University
