@@ -33,7 +33,7 @@ Capstone II responses:
 
 
 
-* ## Emily Quach
+## Emily Quach
 
 San Mateo County Community College District
 
@@ -46,7 +46,7 @@ Capstone Statement: Emily's background is in molecular biology, microbiology, an
 Favorite romcom: How to Lose a Guy in 10 Days
 
 
-* ## Amy Schuler
+## Amy Schuler
 
 [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/)
 
@@ -66,7 +66,7 @@ _What tools would you wish we covered more in depth?_
 I think we could have spent less time on the data management resources (DS Wizard) and more time on the data tools; diving into those more quickly so we had 1-2 extra sessions using Git in the command line, Jupyter notebooks, Docker.
 
 
-* ## Mery Touceda-Suárez
+## Mery Touceda-Suárez
 
 University of Arizona, Tucson
 
@@ -99,7 +99,7 @@ The system where I work, the HPC, uses a Singularity instead of docker, it is no
 NC
 
 
-* ## Emily Dart
+## Emily Dart
 
 Clark University
 
