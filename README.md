@@ -98,9 +98,11 @@ Clark University
 
 PhD Student
 
-Advisor: [Nathan Ahlgren](https://nahlgren.wordpress.com/)
-
 Emily is a viral and microbial ecologist. Her work focuses on using time series to study predator-prey dynamics between phage and bacterial host communities in marine and freshwater ecosystems.
 
 Rom Com: "Howl’s Moving Castle"
+
+Capstone Response: Which tool could you apply right away and why?What is your greatest barrier to these tools? 
+
+Git/GitHub to facilitate easier collaboration and problem solving within the lab and with outside collaborators. This is a tool that is relatively easy to learn how to use and use well. Some of the other tools have steep learning curves that makes the buy-in a much harder sell.
 
