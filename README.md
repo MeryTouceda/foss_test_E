@@ -28,7 +28,7 @@ Favorite romcom: Happiest Season
 Capstone II responses:
 
 * **Which tool could you apply right away and why?** For me, the GitHub Pages demo and associated GitHub Website tutorial were the most immediately applicable. So I created one GitHub Page and an alternative GitHub Website to host the documentation for my new R package, *neonMicrobe*. 
-* **What is your greatest barrier to these tools?** A lack of relevant projects. I'm not currently working on anything that I think would need the tools offered in Apps. And I already use my institution's cluster for most tasks that would be offered by Atmosphere. A data management plan could be useful for an upcoming project, though.
+* **What is your greatest barrier to these tools?** A lack of relevant projects. I'm not currently working on anything that I think would need the tools offered in Apps. And I already use my institution's cluster for most tasks that would be offered by Atmosphere. The CyVerse Data Store and a data management plan could be useful for an upcoming project, though.
 * **What tools would you wish we covered more in depth?** Building containers! I know there's a separate course on this entirely, but I found myself wanting to build my own container for the final project, and at a loss about how to do so.
 
 Final project: GitHub website for neonMicrobe R package documentation ([here](https://claraqin.github.io/neonMicrobe-docs/))
