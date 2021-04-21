@@ -51,6 +51,13 @@ Amy is attempting to become Mother Nature's hacker (joke!) In real life, she sup
 
 Favorite romcom: Chungking Express
 
+Capstone questions:
+_Which tool can I apply right away and why?_  I can make use of GitHub repositories now because everyone I work with (including myself) has some data project to share.  Other tools like containers, Jupyter notebooks, and others are still hazy but I can slowly help others at Cary use them, even as I improve my skills.
+_What is your greatest barrier to these tools?_
+TIME is my single greatest barrier!  Learning on the job, while getting the "real work" done, is hard.  
+_What tools would you wish we covered more in depth?_
+I think we could have spent less time on the data management resources (DS Wizard) and more time on the data tools; diving into those more quickly so we had 1-2 extra sessions using Git in the command line, Jupyter notebooks, Docker.
+
 
 * ## Mery Touceda-Suárez
 
